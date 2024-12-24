@@ -1,0 +1,31 @@
+name: "amanda-website"
+output_dir: "."
+navbar:
+  title: "Amanda B. Campos, MSc."
+  left:
+    - text: "About"
+      #icon: fa-home
+      href: index.html
+      
+    - text: "Projects"
+      #icon: fa-extension-puzzle-outline
+      href: projects.html
+      #menu:
+      #  - text: Research
+      #    href: projects-research.html
+      #  - text: Tutorials
+      #    href: projects-tutorials.html
+      #  - text: Teaching
+      #    href: projects-teaching.html
+
+    - text: "Education"
+      #icon: fa-send
+      href: education.html
+
+output:
+  html_document:
+    #css: styles.css
+    theme: united
+#    include:
+#      after_body: footer.html
+    
