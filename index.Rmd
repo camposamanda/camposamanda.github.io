@@ -9,7 +9,7 @@ I am a PhD Candidate in [Ecology at University of São Paulo](https://posecologi
 
 In my research I use theoretical and computational approaches to better understand the mechanisms driving the population and community dynamics of marine systems. I am especially interested on coral reefs and understanding their potential responses to environmental change. 
 
-Find out [what I have been up to](camposamanda.github.io/projects.html) and reach me out at camposam [at] hawaii [dot] edu if you would like more deets.
+Find out [what I have been up to](https://camposamanda.github.io/projects.html) and reach me out at camposam [at] hawaii [dot] edu if you would like more deets.
 
 
 <a href="https://github.com/camposamanda/"> ![](images/logo_Github.png){width=6%} </a> 
