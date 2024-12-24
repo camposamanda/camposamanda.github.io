@@ -60,7 +60,8 @@ rsconnect/
 # End of https://www.toptal.com/developers/gitignore/api/r
 
 # add what to ignore
-/_site
+_site/
 .Rhistory
-/.Rproj.user
+.Rproj.user/
+my_website.Rproj
 
