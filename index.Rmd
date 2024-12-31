@@ -1,9 +1,11 @@
 ---
-title: "Hello there, I'm Amanda!"
+title: "Amanda B. Campos, MSc."
 ---
 
 <img src="images/camposamandasmall.jpeg" style="height: 290px; padding-right: 10px;" align="left"> 
 <div style="text-align: left">  
+
+### Hello thre, I'm Amanda!
 
 I am a PhD Candidate in [Ecology at University of São Paulo](https://posecologia.ib.usp.br/en/) (São Paulo, Brazil)  as part of [Dr. Paulo Inácio Prado lab](https://ecologia.ib.usp.br/let/doku.php?id=engl:prado:start) and [Dr. Flávia Maria Darcie Marquitti lab](https://www.ifi.unicamp.br/~flaviam/index.html) Currently you can find me at the University of Hawai'i at Manoa as I work as an intern at [Dr. Lisa C McManus lab](https://lmcmanus47.github.io/index.html).
 
